@@ -5,7 +5,7 @@ A simple command-line task tracker built with Python.
 This project was created as a Python learning project to practice working with command-line arguments, functions, lists, dictionaries, JSON files, and the filesystem.
 
 ## Features
-
+ 
 * Add tasks
 * Update tasks
 * Delete tasks
